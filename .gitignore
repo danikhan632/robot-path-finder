@@ -1,0 +1,4 @@
+vector-python-sdk/
+venv/
+__pycache__/
+dataset/
