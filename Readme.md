@@ -1,2 +1,2 @@
 Vector robot
-![](https://github.com/danikhan632/robot-path-finder/path.gif)
+![Alt Text](https://github.com/danikhan632/robot-path-finder/blob/main/media/path.gif)
